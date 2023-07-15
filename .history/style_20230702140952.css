@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Nunito:wght@200;300;400;600;700&family=Poppins:ital,wght@0,200;0,600;1,400&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+body {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ccff530c-6e56-4576-be47-2ef3e9470218/d5iyy7o-632be348-69b7-4e1a-af45-f0373b434f9a.jpg/v1/fill/w_1192,h_670,q_70,strp/stitch_wallpaper__1920x1080__by_echosong001_d5iyy7o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2NjZmY1MzBjLTZlNTYtNDU3Ni1iZTQ3LTJlZjNlOTQ3MDIxOFwvZDVpeXk3by02MzJiZTM0OC02OWI3LTRlMWEtYWY0NS1mMDM3M2I0MzRmOWEuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.heOz44-gS95ZShq8gPKy5FuDEuBz1pKrf5ddsnKAwas');
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    font-family: 'Poppins';
+}
